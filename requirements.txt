@@ -1,0 +1,15 @@
+certifi==2019.11.28
+cffi==1.14.0
+Click==7.0
+cryptography==2.8
+Flask==1.1.1
+gevent==1.5a2
+greenlet==0.4.15
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+pycparser==2.19
+PyJWT==1.7.1
+pyzmq==18.1.1
+six==1.14.0
+Werkzeug==1.0.0
