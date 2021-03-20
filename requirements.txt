@@ -6,7 +6,7 @@ Flask==1.1.1
 gevent==1.5a2
 greenlet==0.4.15
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pycparser==2.19
 PyJWT==1.7.1
